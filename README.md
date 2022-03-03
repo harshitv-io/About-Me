@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harshit V.
+- 👀 I’m interested in AIML with Python and Wordpress Freelancing.
+- 🌱 I’m currently learning Python with AIML.
